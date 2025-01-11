@@ -253,7 +253,7 @@ body {
 
 @media and (min-width: 600px) {
 
-  .pet-description {
+ .pet-description {
     font-size: 1rem;
   }
   .pet-card-text {
