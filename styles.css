@@ -136,7 +136,7 @@ body {
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   .intro-features {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
@@ -183,7 +183,7 @@ body {
 
 .pet-filter {
   color: #9f9f9f;
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 
 .pet-filter button {
